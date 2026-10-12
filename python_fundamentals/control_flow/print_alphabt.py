@@ -3,4 +3,4 @@ letters = ""
 for code in range(ord('a'), ord('z') + 1):
     if chr(code) not in "qe":
         letters += chr(code)
-print("{}".format(letters))
+print("{}".format(letters), end="")
