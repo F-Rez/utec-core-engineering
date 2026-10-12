@@ -6,5 +6,5 @@ valid = pi > 3
 
 print(f"Language: {language}")
 print(f"Version: {version}")
-print(f"Pi approx: {pi: .2f}")
+print(f"Pi approx: {pi:.2f}")
 print(f"Computation valid: {valid}")
