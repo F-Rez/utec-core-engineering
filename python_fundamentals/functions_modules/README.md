@@ -1,1 +1,1 @@
-uppercase
+last digit
